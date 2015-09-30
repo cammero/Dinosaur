@@ -13,5 +13,7 @@ public class DinosaurSupervisor {
     velociraptor.roar();
     diplodocus.roar();
     triceratops.roar();
+    trex.color = "yellow";
+        System.out.println("The color of the Trex is " + trex.color);
     }
 }
